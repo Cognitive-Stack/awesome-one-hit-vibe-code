@@ -28,7 +28,7 @@ Here are five real-world MCP Servers for Azure services, each created by running
 | Service | Repo |
 |---------|------|
 | Azure Storage Blob | [gaia-vault-mcp](https://github.com/cognitivestack/gaia-vault-mcp) |
-| Azure DevOps Git | [ares-datahub-mcp](https://github.com/cognitivestack/ares-datahub-mcp) |
+| Azure DevOps Git | [ares-datahub-mcp](https://github.com/cognitivestack/ares-devops-mcp) |
 | Azure Document Intelligence | [orion-vision-mcp](https://github.com/cognitivestack/orion-vision-mcp) |
 | Azure Cosmos DB | [atlas-datahub-mcp](https://github.com/cognitivestack/atlas-datahub-mcp) |
 | Azure Cognitive Search | [hermes-search-mcp](https://github.com/cognitivestack/hermes-search-mcp) |
