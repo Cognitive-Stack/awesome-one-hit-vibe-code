@@ -32,6 +32,7 @@ Here are five real-world MCP Servers for Azure services, each created by running
 | Azure Document Intelligence | [orion-vision-mcp](https://github.com/Cognitive-Stack/orion-vision-mcp) |
 | Azure Cosmos DB | [atlas-datahub-mcp](https://github.com/Cognitive-Stack/atlas-datahub-mcp) |
 | Azure Cognitive Search | [hermes-search-mcp](https://github.com/Cognitive-Stack/hermes-search-mcp) |
+| AI Chatbot Telegram | [bull-vision-agent](https://github.com/Cognitive-Stack/bull-vision-agent) |
 
 ## 🎯 Why This Matters
 
