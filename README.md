@@ -18,8 +18,10 @@ This repo highlights the power of this approach using the MCPHub ecosystem.
 
 ## 📦 One Prompt Instruction
 
-Use this universal instruction to generate your own MCP server:
+- Use this universal instruction to generate your own MCP server:
 👉 [instruction_mcp_server.md](instruction_mcp_server.md)
+- Create a Telegram bot with OpenAI integration
+👉 [init_telegram_openai_agent.md](init_telegram_openai_agent.md)
 
 ## 🧪 Example Projects Built in One Hit
 
@@ -32,7 +34,7 @@ Here are five real-world MCP Servers for Azure services, each created by running
 | Azure Document Intelligence | [orion-vision-mcp](https://github.com/Cognitive-Stack/orion-vision-mcp) |
 | Azure Cosmos DB | [atlas-datahub-mcp](https://github.com/Cognitive-Stack/atlas-datahub-mcp) |
 | Azure Cognitive Search | [hermes-search-mcp](https://github.com/Cognitive-Stack/hermes-search-mcp) |
-| AI Chatbot Telegram | [bull-vision-agent](https://github.com/Cognitive-Stack/bull-vision-agent/blob/main/init_telegram_openai_agent.md) |
+| AI Chatbot Telegram | [bull-vision-agent](https://github.com/Cognitive-Stack/bull-vision-agent) |
 
 ## 🎯 Why This Matters
 
